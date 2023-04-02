@@ -1,6 +1,6 @@
 # house-price-predication
 This is a my internship project as a MACHINE LEARNING Intern at Bharat intern company
-Task -1: House Price Prediction
+Task -2: House Price Prediction
 ======================================================================================
 House Price prediction are very stressful work as we have to consider different things 
 while buying a house like the structure and the rooms kitchen parking space and gardens. 
